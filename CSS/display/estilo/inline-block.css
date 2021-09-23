@@ -1,0 +1,28 @@
+.ex {
+	color: #fff;
+	text-align: justify;
+}
+
+.ex-item {
+	display: inline-block;
+	width: 25%;
+	height: 150px;
+
+}
+
+.ex-one {
+	background-color: #faa116;
+}
+
+.ex-two {
+	background-color: #f56400;
+}
+
+.ex-three {
+	background-color: #d46;
+}
+
+.ultima-linha {
+	display: inline-block;
+	width: 100%;
+}

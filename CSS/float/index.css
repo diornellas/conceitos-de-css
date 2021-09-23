@@ -1,0 +1,27 @@
+.ex {
+	width: 400px;
+	height: 200px;
+	line-height: 200px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.ex-1{
+	background-color: violet;
+	float:left;
+}
+
+.ex-2 {
+	background-color: red;
+	float: right;
+}
+
+article{
+	background-color: bisque;
+	overflow: hidden;
+
+}
+
+p {
+	clear: both;
+}

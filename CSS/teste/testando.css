@@ -1,0 +1,54 @@
+.ex {
+	width: 20%;
+	height: 150px;
+	cursor: pointer;
+}
+
+.ex-1 {
+	background-color: blue;
+	position: absolute;
+	right:0;
+	top: 0; /* O negativo faz o elemento ir de baixo para cima */
+	transform: translateX(-372%) translateY(20%);
+
+}
+
+.ex-2 {
+	background-color: green;
+	position: absolute;
+	right: 0; 
+	top: 0;
+	transform: translateX(-260%) translateY(20%);
+}
+
+.ex-3 {
+	background-color: red;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transform: translateX(-150%) translateY(20%);
+}
+
+.ex-4 {
+	background-color: pink;
+	position: absolute;
+	right: 0;
+	top: 34%;
+	transform: translateX(-372%);
+}
+
+.ex-5 {
+	background-color: violet;
+	position: absolute;
+	right: 0;
+	top: 34%;
+	transform: translateX(-260%);
+}
+
+.ex-6 {
+	background-color: yellow;
+	position: absolute;
+	right: 0;
+	top: 34%;
+	transform: translateX(-150%);
+}

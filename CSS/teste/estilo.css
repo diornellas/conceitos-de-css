@@ -1,0 +1,108 @@
+#mae {
+	width: 80%;
+	height: 1971px;
+	background-color: lightblue;
+	position: absolute;/* ESSE EXEMPLO É PARA OS ELEMENTOS FILHOS RESPEITEM A MAE */
+	left: 10%;
+	right: 10%;
+
+}
+
+.ex {
+	width: 15%;
+	height: 150px;
+	text-align: center;
+
+}
+
+.ex-1 {
+	background-color: red;
+	position: absolute;
+	left: 0%;
+	top: 1.88%;
+	transform: translateX(10%);
+}
+
+.ex-2 {
+	background-color: yellow;
+	position: absolute;
+	left: 0%;
+	top: 1.88%;
+	transform: translateX(125%);
+}
+
+.ex-3 {
+	background-color: green;
+	position: absolute;
+	left: 36%;
+	top: 1.88%;
+	
+}
+
+.ex-4 {
+	background-color: violet;
+	position: absolute;
+	left: 0;
+	top: 11%;
+	transform: translateX(10%);
+}
+
+.ex-5 {
+	background-color: pink;
+	position:absolute;
+	left: 0;
+	top: 11%;
+	transform: translateX(125%);
+}
+
+.ex-6 {
+	background-color: #446427;
+	position: absolute;
+	left: 36%;
+	top: 11%;
+}
+
+.ex-7 {
+	background-color: #649;
+	position: absolute;
+	left: 0%;
+	top: 20%;
+	transform: translateX(10%);
+}
+
+.ex-8 {
+	background-color: #897545;
+	position: absolute;
+	left: 0;
+	top: 20%;
+	transform: translateX(125%);
+}
+
+.ex-9 {
+	background-color: #726942;
+	position: absolute;
+	left: 36%;
+	top: 20%;
+}
+
+.ex-10 {
+	background-color: #999;
+	position: absolute;
+	left: 53.3%;
+	top: 1.88%;
+	transform: translateX();
+}
+
+.ex-11 {
+	background-color: #555;
+	position: absolute;
+	left: 53.3%;
+	top: 11%;
+}
+
+.ex-12 {
+	background-color: #111;
+	position: absolute;
+	left: 53.3%;
+	top: 20%;
+}

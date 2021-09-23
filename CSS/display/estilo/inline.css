@@ -1,0 +1,25 @@
+.example {
+	color: #fff;
+	text-align: right;
+	background-color: lightgreen;
+}
+
+
+.example-item {
+	width: 33.333%;
+	height:150px;
+	display: inline; /*Ao escolher DISPLAY-INLINE a WIDTH & HEIGHT não funciona */
+
+}
+
+.ex-one {
+	background-color: #faa116;
+}
+
+.ex-two {
+	background-color: #57c7c3;
+}
+
+.ex-three {
+	background-color: #3b97d3;
+}

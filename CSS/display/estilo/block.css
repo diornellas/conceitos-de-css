@@ -1,0 +1,25 @@
+.ex {
+	color: white;
+	text-align: center;
+}
+
+.ex-item {
+	display: block;
+	width:33.333%;
+	height: 150px;
+}
+
+.ex-one {
+	background-color: red;
+}
+
+.ex-two {
+	background-color: green;
+	margin-left: auto;/*margin-left: 66.667%;*/
+}
+
+.ex-three {
+	background-color: blue;
+	margin-left: auto;/*margin-left: 33.333%;*/
+	margin-right: auto;/*margin-right: 33.333%;*/
+}
