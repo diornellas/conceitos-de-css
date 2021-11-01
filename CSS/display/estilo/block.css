@@ -1,4 +1,9 @@
+body {
+	background-color: black;
+}
+
 .ex {
+	background-color: white;
 	color: white;
 	text-align: center;
 }
@@ -22,4 +27,32 @@
 	background-color: blue;
 	margin-left: auto;/*margin-left: 33.333%;*/
 	margin-right: auto;/*margin-right: 33.333%;*/
+}
+
+
+section {
+	background-color: yellow;
+	width: 85%;
+	height: 100%;
+}
+
+.box {
+	color: white;
+	display: block;
+	width: 250px;
+	height: 250px;
+}
+
+.box-1 {
+	background-color: red;
+	margin: 0px 0px 0px auto;
+}
+
+.box-2 {
+	background-color: green;
+	margin: auto;
+}
+
+.box-3 {
+	background-color: blue;
 }
