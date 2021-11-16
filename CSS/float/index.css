@@ -8,7 +8,7 @@
 
 .ex-1{
 	background-color: violet;
-	float:left;
+	float: left;
 }
 
 .ex-2 {
@@ -16,7 +16,7 @@
 	float: right;
 }
 
-article{
+article {
 	background-color: bisque;
 	overflow: hidden;
 
